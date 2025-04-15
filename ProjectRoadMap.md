@@ -6,3 +6,7 @@
 - [ ] Schedule presentation in Teams
 - [ ] Plan goals for the project
 - [ ] Create PowerPoint presentation
+- [x] create sample_players.csv
+- [x] create data_loader.py
+- [x] create visualizer.py
+- [x] create main.py
